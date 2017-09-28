@@ -6,7 +6,7 @@ $(document).ready(function() {
     console.log(data)
   })
 
-  $.getJSON('./data/test.txt', function(data) {
+  $.get('./data/test.txt', function(data) {
     console.log('in txt callback')
     console.log(data)
   })
