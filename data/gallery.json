@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Rachel Turgoose Site",
+    "text": "This was one of the first web sites I built after completing web development training. It was a learning experience to work with a client and to understand and meet her needs while trying to sugest what is possible. This is a pet project of mine and will continue to improve.",
+    "techs": [ "HTML", "CSS", "Sass", "JavaScript", "PHP" ],
+    "imgStem": "turgoose",
+    "url": "http://www.rachelturgoose.com/",
+    "code": "https://github.com/ksjazzguitar/Turgoose"
+  },
+  {
+    "name": "Pinterest-Type App",
+    "text": "This was a full stack app for the Free Code Camp program. It's roughly a pinterest-type app where users can add and remove image and rate others'. This run on Heroku so it may take several seconds to start up initially.",
+    "techs": [ "HTML", "CSS", "JavaScript", "Node.js", "Express", "MongoDB", "Mongoose", "Passport", "Handlebars", "Heroku", "mLab"],
+    "imgStem": "pinteresttype",
+    "url": "https://ksj-fccbe-image.herokuapp.com/",
+    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/back-end-development-cert/Dynamic-Web-Applications-Projects/image-sharer"
+  },
+  {
+    "name": "Game of Life App",
+    "text": "OK, this was just plain fun. Another FCC app, this was Conway's <a href=\"https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life\">Game of Life</a>, done in React.",
+    "techs": [ "HTML", "CSS", "JavaScript", "React", "Sass"],
+    "imgStem": "gameoflife",
+    "url": "./apps/gameoflife/index.html",
+    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/React-Sass/game-of-life"
+  },
+  {
+    "name": "Metric Test App",
+    "text": "I built this to refresh my React skills and to learn <i>create-react-app</i> and the more typical React file structure. I look forward to one day turning this into a mobile app with React Native.",
+    "techs": [ "HTML", "CSS", "JavaScript", "Bootstrap", "React" ],
+    "imgStem": "metrictest",
+    "url": "https://ksjazzguitar.github.io/apps/metric-test/index.html",
+    "code": "https://github.com/ksjazzguitar/metric-tester"
+  },
+  {
+    "name": "Nightlife App",
+    "text": "Another Free Code Camp app, this checks your location and shows you nightlife places near your location and how many people are planning on going. You can tell if you plan to go as well. This run on Heroku so it may take several seconds to start up initially.",
+    "techs": [ "HTML", "CSS", "JavaScript", "Node.js", "Express", "MongoDB", "Mongoose", "Passport", "Handlebars", "Heroku", "mLab"],
+    "imgStem": "nightlife",
+    "url": "https://ksj-fccbe-nightlife.herokuapp.com/",
+    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/back-end-development-cert/Dynamic-Web-Applications-Projects/nightlife"
+  },
+  {
+    "name": "Recipe Box App",
+    "text": "Another Free Code Camp app, this is a a recipe box. The interesting kink in this project was the need to persist the data in the users's browser's local storage. It comes preloaded with three of my favorite recipes.",
+    "techs": [ "HTML", "CSS", "JavaScript", "React", "Bootstrap"],
+    "imgStem": "recipebox",
+    "url": "https://ksjazzguitar.github.io/apps/recipbox/index.html",
+    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/React-Sass/recipe-box"
+  },
+  {
+    "name": "Kevin Smith Site",
+    "text": "This is one I built for myself years ago, before I knew what I was doing. I look forward to redoing it right.",
+    "techs": [ "HTML", "CSS", "Sass", "JavaScript", "PHP" ],
+    "imgStem": "ksjazzguitar",
+    "url": "http://www.kevinsmithguitar.com",
+    "code": "https://github.com/ksjazzguitar/kevinsmithguitar"
+  },
+  {
+    "name": "Heat Map Graph",
+    "text": "Another Free Code Camp app, a chance to use the D3.js graphing library, it graphs global head data by year and month.",
+    "techs": [ "HTML", "CSS", "JavaScript", "D3.js"],
+    "imgStem": "heatmap",
+    "url": "https://ksjazzguitar.github.io/apps/heatmap/index.html",
+    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/D3/heat-map"
+  },
+  {
+    "name": "Voting App",
+    "text": "Another Free Code Camp app, a fullstack app where the users can log in and create polls where others can vote. I also used the ZingChart Library.",
+    "techs": [ "HTML", "CSS", "JavaScript", "Node.js", "Express", "MongoDB", "Mongoose", "Passport", "Handlebars", "Heroku", "mLab"],
+    "imgStem": "voting",
+    "url": "https://ksj-fccbe-voting.herokuapp.com/",
+    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/back-end-development-cert/Dynamic-Web-Applications-Projects/voter"
+  }
+
+
+
+]
