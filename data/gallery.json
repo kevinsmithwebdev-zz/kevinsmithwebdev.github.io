@@ -70,8 +70,15 @@
     "imgStem": "voting",
     "url": "https://ksj-fccbe-voting.herokuapp.com/",
     "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/back-end-development-cert/Dynamic-Web-Applications-Projects/voter"
+  },
+  {
+    "name": "Dungeon Crawler App",
+    "text": "OK, a little fun, a dungeon crawler for FCC again.",
+    "techs": [ "HTML", "CSS", "JavaScript", "React", "Sass"],
+    "imgStem": "dungeon",
+    "url": "./apps/dungeon/index.html",
+    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/React-Sass/dungeon-crawler"
   }
-
 
 
 ]
