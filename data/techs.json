@@ -8,7 +8,10 @@
       "Bootstrap",
       "jQuery",
       "D3.js",
+      "Highcharts",
       "React",
+      "Redux",
+      "React Router",
       "Sass"
     ]
   },

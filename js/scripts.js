@@ -92,9 +92,6 @@ $(document).ready(function() {
     $galleryModalLink.attr('href', gal.url)
     $galleryModalCode.attr('href', gal.code)
     $galleryModal.modal('show').css({ 'margin': 0 })
-
-
-
   })
 
 
@@ -108,7 +105,6 @@ $(document).ready(function() {
       var autoHeight = $gallery.css('height', 'auto').height()
       $gallery.height(curHeight)
       $gallery.stop().animate({ height: autoHeight }, transition)
-
     } else {
       $gallery.height(height)
       $gallery.stop().animate({ height: height }, transition)
@@ -139,10 +135,13 @@ function makeTech(title, list) {
 
 const techElement = (tech) => {
   return  '<h4>' +
-            '<img class="tech-logo" src="./img/logos/' + tech.toLowerCase() + '.png" alt="logo for ' + tech + '">' +
+            '<img class="tech-logo" src="./img/logos/' + techFileName(tech) + '" alt="logo for ' + tech + '">' +
             tech +
           '</h4>'
 }
+const techFileName = (tech) => tech.replace(/ /g, '').toLowerCase() + '.png'
+
+
 
 function horizTechList(techs) {
   var html = '<ul id="gal-ul">'
@@ -157,7 +156,6 @@ function horizTechList(techs) {
 }
 
 function makeContacts(contacts, category) {
-  console.log(contacts)
   var html = ''
   html += '<h3>' + contacts.text + '</h3>'
   html += '<ul id="contact-ul">'

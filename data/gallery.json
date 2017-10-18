@@ -78,7 +78,29 @@
     "imgStem": "dungeon",
     "url": "./apps/dungeon/index.html",
     "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/React-Sass/dungeon-crawler"
+  },
+  {
+    "name": "Portfolio Page",
+    "text": "Well, obviously this page is an example of my coding. It's not done yet (this is just a quick job) and I hope to redo it in React and React Router.",
+    "techs": [ "HTML", "CSS", "JavaScript", "Bootstrap", "jQuery"],
+    "imgStem": "portfolio",
+    "url": "https://ksjazzguitar.github.io/",
+    "code": "https://github.com/ksjazzguitar/portfolio"
+  },
+  {
+    "name": "Stock Tracker",
+    "text": "Another FCC fullstack project, making a stock tracker. One of the wrinkles was to use sockets (suprisingly easy) so that stocks added or deleted by users would change what other users see. Using Heroku, it may take a few seconds to load the first time.",
+    "techs": [ "HTML", "CSS", "JavaScript", "Highcharts", "Node.js", "Express", "Handlebars", "Heroku"],
+    "imgStem": "stocktracker",
+    "url": "https://ksj-fccbe-stock.herokuapp.com/",
+    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/back-end-development-cert/Dynamic-Web-Applications-Projects/stock-tracker"
+  },
+  {
+    "name": "GDP Bar Chart",
+    "text": "Another FCC project, using D3.js to create a bar chart of GDP data, with tooltips.",
+    "techs": [ "HTML", "CSS", "Bootstrap", "JavaScript", "D3.js"],
+    "imgStem": "gdpbarchart",
+    "url": "./apps/gdpbarchart/index.html",
+    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/D3/bar-chart"
   }
-
-
 ]
