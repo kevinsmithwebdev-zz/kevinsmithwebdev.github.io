@@ -1,6 +1,6 @@
 // const URL_STEM = 'http://localhost:3001/C:/Users/Rox%20and%20Kevin/Documents/Programming/portfolio/test2'
-// const URL_STEM = 'http://192.168.1.1:8080'
-const URL_STEM = ''
+const URL_STEM = 'http://192.168.1.1:8080'
+// const URL_STEM = ''
 
 const GALLERY_HEIGHT = 320
 var isGalleryExpanded = false
