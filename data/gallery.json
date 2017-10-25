@@ -44,7 +44,7 @@
     "text": "Another Free Code Camp app, this is a a recipe box. The interesting kink in this project was the need to persist the data in the users's browser's local storage. It comes preloaded with three of my favorite recipes.",
     "techs": [ "HTML", "CSS", "JavaScript", "React", "Bootstrap"],
     "imgStem": "recipebox",
-    "url": "https://ksjazzguitar.github.io/apps/recipbox/index.html",
+    "url": "https://ksjazzguitar.github.io/apps/recipebox/index.html",
     "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/React-Sass/recipe-box"
   },
   {
