@@ -1,11 +1,11 @@
 [
   {
     "name": "Rachel Turgoose Site",
-    "text": "This was one of the first web sites I built after completing web development training. It was a learning experience to work with a client and to understand and meet her needs while trying to sugest what is possible. This is a pet project of mine and will continue to improve.",
+    "text": "This was one of the first web sites I built after completing web development training. It was a learning experience to work with a client and to understand and meet her needs while trying to sugest what is possible. This is a pet project of mine and will continue to improve. One hurdle was accessing the Google API to get her calendar info so I could parse it.",
     "techs": [ "HTML", "CSS", "Sass", "JavaScript", "PHP" ],
     "imgStem": "turgoose",
     "url": "http://www.rachelturgoose.com/",
-    "code": "https://github.com/ksjazzguitar/Turgoose"
+    "code": "https://github.com/kevinsmithwebdev/Turgoose"
   },
   {
     "name": "Pinterest-Type App",
@@ -13,7 +13,7 @@
     "techs": [ "HTML", "CSS", "JavaScript", "Node.js", "Express", "MongoDB", "Mongoose", "Passport", "Handlebars", "Heroku", "mLab"],
     "imgStem": "pinteresttype",
     "url": "https://ksj-fccbe-image.herokuapp.com/",
-    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/back-end-development-cert/Dynamic-Web-Applications-Projects/image-sharer"
+    "code": "https://github.com/kevinsmithwebdev/Free-Code-Camp-Certifications/tree/master/back-end-development-cert/Dynamic-Web-Applications-Projects/image-sharer"
   },
   {
     "name": "Game of Life App",
@@ -21,15 +21,23 @@
     "techs": [ "HTML", "CSS", "JavaScript", "React", "Sass"],
     "imgStem": "gameoflife",
     "url": "./apps/gameoflife/index.html",
-    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/React-Sass/game-of-life"
+    "code": "https://github.com/kevinsmithwebdev/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/React-Sass/game-of-life"
   },
   {
     "name": "Metric Test App",
-    "text": "I built this to refresh my React skills and to learn <i>create-react-app</i> and the more typical React file structure. I look forward to one day turning this into a mobile app with React Native.",
-    "techs": [ "HTML", "CSS", "JavaScript", "Bootstrap", "React" ],
+    "text": "I built this to refresh my React skills and to learn <i>create-react-app</i> and the more typical React file structure. I just converted it into React Native and will soon launch it on Google Play.",
+    "techs": [ "HTML", "CSS", "JavaScript", "Bootstrap", "React", "React Native" ],
     "imgStem": "metrictest",
-    "url": "https://ksjazzguitar.github.io/apps/metric-test/index.html",
-    "code": "https://github.com/ksjazzguitar/metric-tester"
+    "url": "https://kevinsmithwebdev.github.io/apps/metric-test/index.html",
+    "code": "https://github.com/kevinsmithwebdev/metric-tester"
+  },
+  {
+    "name": "Repertoire App",
+    "text": "This app excites me. Not only is it a chance to work on my React skills, but this was my first Redux app. It's not complete - it should allow you to edit the entries for full CRUD. But now I realize I really should be doing this in React Native as this would be most useful in a mobile app. This is the kind of app I would use every day - I'm looking forward to launching this.",
+    "techs": [ "JavaScript", "CSS", "React", "Redux", "React Native" ],
+    "imgStem": "repr",
+    "url": "https://kevinsmithwebdev.github.io/apps/repr/index.html",
+    "code": "https://github.com/kevinsmithwebdev/repr"
   },
   {
     "name": "Nightlife App",
@@ -37,15 +45,15 @@
     "techs": [ "HTML", "CSS", "JavaScript", "Node.js", "Express", "MongoDB", "Mongoose", "Passport", "Handlebars", "Heroku", "mLab"],
     "imgStem": "nightlife",
     "url": "https://ksj-fccbe-nightlife.herokuapp.com/",
-    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/back-end-development-cert/Dynamic-Web-Applications-Projects/nightlife"
+    "code": "https://github.com/kevinsmithwebdev/Free-Code-Camp-Certifications/tree/master/back-end-development-cert/Dynamic-Web-Applications-Projects/nightlife"
   },
   {
     "name": "Recipe Box App",
     "text": "Another Free Code Camp app, this is a a recipe box. The interesting kink in this project was the need to persist the data in the users's browser's local storage. It comes preloaded with three of my favorite recipes.",
     "techs": [ "HTML", "CSS", "JavaScript", "React", "Bootstrap"],
     "imgStem": "recipebox",
-    "url": "https://ksjazzguitar.github.io/apps/recipebox/index.html",
-    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/React-Sass/recipe-box"
+    "url": "https://kevinsmithwebdev.github.io/apps/recipebox/index.html",
+    "code": "https://github.com/kevinsmithwebdev/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/React-Sass/recipe-box"
   },
   {
     "name": "Kevin Smith Site",
@@ -53,15 +61,15 @@
     "techs": [ "HTML", "CSS", "Sass", "JavaScript", "PHP" ],
     "imgStem": "ksjazzguitar",
     "url": "http://www.kevinsmithguitar.com",
-    "code": "https://github.com/ksjazzguitar/kevinsmithguitar"
+    "code": "https://github.com/kevinsmithwebdev/kevinsmithguitar"
   },
   {
     "name": "Heat Map Graph",
     "text": "Another Free Code Camp app, a chance to use the D3.js graphing library, it graphs global head data by year and month.",
     "techs": [ "HTML", "CSS", "JavaScript", "D3.js"],
     "imgStem": "heatmap",
-    "url": "https://ksjazzguitar.github.io/apps/heatmap/index.html",
-    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/D3/heat-map"
+    "url": "https://kevinsmithwebdev.github.io/apps/heatmap/index.html",
+    "code": "https://github.com/kevinsmithwebdev/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/D3/heat-map"
   },
   {
     "name": "Voting App",
@@ -69,7 +77,7 @@
     "techs": [ "HTML", "CSS", "JavaScript", "Node.js", "Express", "MongoDB", "Mongoose", "Passport", "Handlebars", "Heroku", "mLab"],
     "imgStem": "voting",
     "url": "https://ksj-fccbe-voting.herokuapp.com/",
-    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/back-end-development-cert/Dynamic-Web-Applications-Projects/voter"
+    "code": "https://github.com/kevinsmithwebdev/Free-Code-Camp-Certifications/tree/master/back-end-development-cert/Dynamic-Web-Applications-Projects/voter"
   },
   {
     "name": "Dungeon Crawler App",
@@ -77,15 +85,15 @@
     "techs": [ "HTML", "CSS", "JavaScript", "React", "Sass"],
     "imgStem": "dungeon",
     "url": "./apps/dungeon/index.html",
-    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/React-Sass/dungeon-crawler"
+    "code": "https://github.com/kevinsmithwebdev/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/React-Sass/dungeon-crawler"
   },
   {
     "name": "Portfolio Page",
     "text": "Well, obviously this page is an example of my coding. It's not done yet (this is just a quick job) and I hope to redo it in React and React Router.",
     "techs": [ "HTML", "CSS", "JavaScript", "Bootstrap", "jQuery"],
     "imgStem": "portfolio",
-    "url": "https://ksjazzguitar.github.io/",
-    "code": "https://github.com/ksjazzguitar/portfolio"
+    "url": "https://kevinsmithwebdev.github.io/",
+    "code": "https://github.com/kevinsmithwebdev/portfolio"
   },
   {
     "name": "Stock Tracker",
@@ -93,7 +101,7 @@
     "techs": [ "HTML", "CSS", "JavaScript", "Highcharts", "Node.js", "Express", "Handlebars", "Heroku"],
     "imgStem": "stocktracker",
     "url": "https://ksj-fccbe-stock.herokuapp.com/",
-    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/back-end-development-cert/Dynamic-Web-Applications-Projects/stock-tracker"
+    "code": "https://github.com/kevinsmithwebdev/Free-Code-Camp-Certifications/tree/master/back-end-development-cert/Dynamic-Web-Applications-Projects/stock-tracker"
   },
   {
     "name": "GDP Bar Chart",
@@ -101,6 +109,6 @@
     "techs": [ "HTML", "CSS", "Bootstrap", "JavaScript", "D3.js"],
     "imgStem": "gdpbarchart",
     "url": "./apps/gdpbarchart/index.html",
-    "code": "https://github.com/ksjazzguitar/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/D3/bar-chart"
+    "code": "https://github.com/kevinsmithwebdev/Free-Code-Camp-Certifications/tree/master/data-visualization-cert/D3/bar-chart"
   }
 ]
