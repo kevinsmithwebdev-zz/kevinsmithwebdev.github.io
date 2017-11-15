@@ -35,7 +35,9 @@
       "Heroku",
       "mLab",
       "Atom",
-      "Webpack"
+      "Webpack",
+      "Expo",
+      "Google Play"
     ]
   }
 }

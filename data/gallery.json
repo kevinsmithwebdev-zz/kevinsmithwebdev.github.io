@@ -25,11 +25,19 @@
   },
   {
     "name": "Metric Test App",
-    "text": "I built this to refresh my React skills and to learn <i>create-react-app</i> and the more typical React file structure. I just converted it into React Native and will soon launch it on Google Play.",
-    "techs": [ "HTML", "CSS", "JavaScript", "Bootstrap", "React", "React Native" ],
+    "text": "I built this to refresh my React skills and to learn <i>create-react-app</i> and the more typical React file structure.",
+    "techs": [ "HTML", "CSS", "JavaScript", "Bootstrap", "React" ],
     "imgStem": "metrictest",
     "url": "https://kevinsmithwebdev.github.io/apps/metric-test/index.html",
     "code": "https://github.com/kevinsmithwebdev/metric-tester"
+  },
+  {
+    "name": "Metric Test App - Google App",
+    "text": "This is my first React Native app. It was a chance to use Expo and learn the React Native lifecycle and push it to Google Play as a live app.",
+    "techs": [ "HTML", "CSS", "JavaScript", "React Native", "Expo", "Google Play", "Android" ],
+    "imgStem": "metr-rn",
+    "url": "https://play.google.com/store/apps/details?id=com.kevinsmithwebdev.metr&hl=en",
+    "code": "https://github.com/kevinsmithwebdev/metr-rn"
   },
   {
     "name": "Repertoire App",
