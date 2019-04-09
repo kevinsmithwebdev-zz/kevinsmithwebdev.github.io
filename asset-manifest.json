@@ -1,9 +1,12 @@
 {
-  "main.css": "static/css/main.b9b0c28c.css",
-  "main.css.map": "static/css/main.b9b0c28c.css.map",
-  "main.js": "static/js/main.bc65ce96.js",
-  "main.js.map": "static/js/main.bc65ce96.js.map",
+  "main.css": "static/css/main.216b148c.css",
+  "main.css.map": "static/css/main.216b148c.css.map",
+  "main.js": "static/js/main.e496878e.js",
+  "main.js.map": "static/js/main.e496878e.js.map",
+  "static/media/anna.jpg": "static/media/anna.cdccb6e1.jpg",
   "static/media/flags.jpg": "static/media/flags.0e6af50c.jpg",
   "static/media/lettertree.png": "static/media/lettertree.7b417af1.png",
+  "static/media/melanieFay.jpg": "static/media/melanieFay.13ef36b4.jpg",
+  "static/media/roxana.jpg": "static/media/roxana.5f40a416.jpg",
   "static/media/teaching.jpg": "static/media/teaching.0774ec92.jpg"
 }
