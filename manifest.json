@@ -1,10 +1,10 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "hfls",
+  "name": "Have Fun Learning Spanish",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "192x192",
+      "src": "icons/icon-144x144.png",
+      "sizes": "144x144",
       "type": "image/png"
     }
   ],
