@@ -1,6 +1,6 @@
 {
-  "short_name": "RL Demo",
-  "name": "React Lectorem Demo",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
