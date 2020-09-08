@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Book 1 Title Book 1 Title",
+    "subtitle": "Book Subtitle 1 Book Subtitle 1",
+    "img": "book1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "gradeLevel": "1",
+    "price": 1,
+    "link": "http://www.google.com"
+  },
+  {
+    "title": "Book 2 Title Book 2 Title",
+    "subtitle": "Book Subtitle 2 Book Subtitle 2",
+    "img": "book2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "gradeLevel": "1",
+    "price": 2.0,
+    "link": "http://www.google.com"
+  },
+  {
+    "title": "Book 3 Title Book 3 Title",
+    "img": "book1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "gradeLevel": "1",
+    "price": 3.00,
+    "link": "http://www.google.com"
+  },
+  {
+    "title": "Book 4 Title Book 4 Title",
+    "subtitle": "Book Subtitle 4 Book Subtitle 4",
+    "img": "book2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "gradeLevel": "2",
+    "price": 4.01,
+    "link": "http://www.google.com"
+  },
+  {
+    "title": "Book 5 Title Book 5 Title",
+    "subtitle": "Book Subtitle 5 Book Subtitle 5",
+    "img": "book1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "gradeLevel": "2",
+    "price": 5.05,
+    "link": "http://www.google.com"
+  },
+  {
+    "title": "Book 6 Title Book 6 Title",
+    "subtitle": "Book Subtitle 6 Book Subtitle 6",
+    "img": "book2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "gradeLevel": "2",
+    "price": 6.06,
+    "link": "http://www.google.com"
+  },
+  {
+    "title": "Book 7 Title Book 7 Title",
+    "subtitle": "Book Subtitle 7 Book Subtitle 7",
+    "img": "book1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "gradeLevel": "3",
+    "price": 7.07,
+    "link": "http://www.google.com"
+  },
+  {
+    "title": "Book 8 Title Book 8 Title",
+    "subtitle": "Book Subtitle 8 Book Subtitle 8",
+    "img": "book2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "gradeLevel": "3",
+    "price": 8.08,
+    "link": "http://www.google.com"
+  },
+  {
+    "title": "Book 9 Title Book 9 Title",
+    "subtitle": "Book Subtitle 9 Book Subtitle 9",
+    "img": "book1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "gradeLevel": "3",
+    "price": 9.09,
+    "link": "http://www.google.com"
+  }
+]
