@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/apps/lectorem-demo/static/css/main.57a64490.chunk.css",
+    "main.js": "/apps/lectorem-demo/static/js/main.689856d2.chunk.js",
+    "main.js.map": "/apps/lectorem-demo/static/js/main.689856d2.chunk.js.map",
+    "runtime-main.js": "/apps/lectorem-demo/static/js/runtime-main.1596ab4a.js",
+    "runtime-main.js.map": "/apps/lectorem-demo/static/js/runtime-main.1596ab4a.js.map",
+    "static/js/2.1ac960b9.chunk.js": "/apps/lectorem-demo/static/js/2.1ac960b9.chunk.js",
+    "static/js/2.1ac960b9.chunk.js.map": "/apps/lectorem-demo/static/js/2.1ac960b9.chunk.js.map",
+    "index.html": "/apps/lectorem-demo/index.html",
+    "precache-manifest.f984f7f0e1672c2e3416400d769008f2.js": "/apps/lectorem-demo/precache-manifest.f984f7f0e1672c2e3416400d769008f2.js",
+    "service-worker.js": "/apps/lectorem-demo/service-worker.js",
+    "static/css/main.57a64490.chunk.css.map": "/apps/lectorem-demo/static/css/main.57a64490.chunk.css.map",
+    "static/js/2.1ac960b9.chunk.js.LICENSE.txt": "/apps/lectorem-demo/static/js/2.1ac960b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1596ab4a.js",
+    "static/js/2.1ac960b9.chunk.js",
+    "static/css/main.57a64490.chunk.css",
+    "static/js/main.689856d2.chunk.js"
+  ]
+}
